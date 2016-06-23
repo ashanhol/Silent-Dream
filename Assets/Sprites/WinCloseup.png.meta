@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: 54e8eb7e8ec29904c9a387c83745c117
+timeCreated: 1463585384
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WinCloseup_0
+    21300002: WinCloseup_1
+    21300004: WinCloseup_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: WinCloseup_0
+      rect:
+        serializedVersion: 2
+        x: 4855
+        y: 195
+        width: 730
+        height: 1039
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76.371216, y: 29.233246}
+        - {x: 42.371216, y: 93.233246}
+        - {x: -7.628784, y: 135.23325}
+        - {x: -73.628784, y: 135.23325}
+        - {x: -99.628784, y: 120.233246}
+        - {x: -99.628784, y: 23.233246}
+        - {x: -82.628784, y: -1.7667542}
+        - {x: -42.628784, y: -46.766754}
+        - {x: -18.628784, y: -138.76675}
+        - {x: -12.628784, y: -140.76675}
+        - {x: 16.371216, y: -140.76675}
+        - {x: 58.371216, y: -133.76675}
+        - {x: 96.371216, y: -82.766754}
+        - {x: 96.371216, y: -49.766754}
+        - {x: 89.371216, y: -5.766754}
+    - name: WinCloseup_1
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 186
+        width: 739
+        height: 1020
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99.44592, y: -24.223679}
+        - {x: 82.44592, y: 37.77632}
+        - {x: 42.445923, y: 102.77632}
+        - {x: -4.554077, y: 137.77632}
+        - {x: -27.554077, y: 140.77632}
+        - {x: -65.55408, y: 140.77632}
+        - {x: -97.55408, y: 122.77632}
+        - {x: -97.55408, y: 28.776321}
+        - {x: -75.55408, y: 1.7763214}
+        - {x: -15.554077, y: -132.22368}
+        - {x: -4.554077, y: -135.22368}
+        - {x: 36.445923, y: -135.22368}
+        - {x: 65.44592, y: -123.22368}
+        - {x: 102.44592, y: -71.22368}
+        - {x: 102.44592, y: -62.22368}
+    - name: WinCloseup_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1390
+        width: 7500
+        height: 4471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1024, y: 610.95746}
+        - {x: -1024, y: -610.04254}
+        - {x: 1024, y: -610.04254}
+        - {x: 1024, y: 610.95746}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

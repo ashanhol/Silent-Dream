@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 1331a9405638ed54abfd33cd5b060ace
+timeCreated: 1463165289
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GAME OVER_0
+    21300002: GAME OVER_1
+    21300004: GAME OVER_2
+    21300006: GAME OVER_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GAME OVER_0
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 281
+        width: 2812
+        height: 1044
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -223.96112, y: -121.28552}
+        - {x: 359.03888, y: -121.28552}
+        - {x: 360.03888, y: -122.28552}
+        - {x: 362.03888, y: -121.28552}
+        - {x: 378.03888, y: -121.28552}
+        - {x: 381.03888, y: -118.28552}
+        - {x: 381.03888, y: 141.71448}
+        - {x: 379.03888, y: 143.71448}
+        - {x: 232.03888, y: 143.71448}
+        - {x: 231.03888, y: 142.71448}
+        - {x: 229.03888, y: 142.71448}
+        - {x: 228.03888, y: 141.71448}
+        - {x: 220.03888, y: 141.71448}
+        - {x: 219.03888, y: 143.71448}
+        - {x: -199.96112, y: 143.71448}
+        - {x: -200.96112, y: 142.71448}
+        - {x: -249.96112, y: 142.71448}
+        - {x: -250.96112, y: 143.71448}
+        - {x: -383.96112, y: 143.71448}
+        - {x: -383.96112, y: -121.28552}
+        - {x: -367.96112, y: -121.28552}
+        - {x: -366.96112, y: -122.28552}
+        - {x: -364.96112, y: -121.28552}
+        - {x: -227.96112, y: -121.28552}
+        - {x: -226.96112, y: -122.28552}
+        - {x: -224.96112, y: -122.28552}
+    - name: GAME OVER_1
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1904
+        width: 2747
+        height: 516
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 206.90695, y: 40.802002}
+        - {x: 206.90695, y: -66.198}
+        - {x: 222.90695, y: -68.198}
+        - {x: 375.90695, y: -68.198}
+        - {x: 375.90695, y: -15.197998}
+        - {x: 366.90695, y: 20.802002}
+        - {x: 353.90695, y: 32.802002}
+        - {x: 304.90695, y: 40.802002}
+      - - {x: -83.09305, y: 32.802002}
+        - {x: -81.09305, y: 50.802002}
+        - {x: -204.09305, y: 50.802002}
+        - {x: -204.09305, y: -58.197998}
+        - {x: -12.093048, y: -58.197998}
+        - {x: -12.093048, y: 34.802002}
+        - {x: -18.093048, y: 47.802002}
+      - - {x: -271.09305, y: 41.802002}
+        - {x: -271.09305, y: -57.197998}
+        - {x: -216.09305, y: -57.197998}
+        - {x: -197.09305, y: -48.197998}
+        - {x: -197.09305, y: 11.802002}
+        - {x: -205.09305, y: 41.802002}
+      - - {x: 215.90695, y: 30.802002}
+        - {x: 126.90695, y: 66.802}
+        - {x: 66.90695, y: 66.802}
+        - {x: 37.90695, y: 48.802002}
+        - {x: 37.90695, y: -13.197998}
+        - {x: 49.90695, y: -38.197998}
+        - {x: 80.90695, y: -54.197998}
+        - {x: 92.90695, y: -54.197998}
+        - {x: 119.90695, y: -19.197998}
+        - {x: 137.90695, y: -54.197998}
+        - {x: 179.90695, y: -54.197998}
+        - {x: 184.90695, y: -50.197998}
+        - {x: 186.90695, y: -48.197998}
+        - {x: 215.90695, y: 11.802002}
+      - - {x: -305.09305, y: 2.802002}
+        - {x: -325.09305, y: -7.197998}
+        - {x: -320.09305, y: -15.197998}
+        - {x: -317.09305, y: -14.197998}
+        - {x: -306.09305, y: -38.197998}
+        - {x: -338.09305, y: -12.197998}
+        - {x: -284.09305, y: 22.802002}
+        - {x: -283.09305, y: 52.802002}
+        - {x: -289.09305, y: 55.802002}
+        - {x: -319.09305, y: 55.802002}
+        - {x: -336.09305, y: 53.802002}
+        - {x: -361.09305, y: 37.802002}
+        - {x: -361.09305, y: -22.197998}
+        - {x: -346.09305, y: -51.197998}
+        - {x: -287.09305, y: -51.197998}
+        - {x: -269.09305, y: -28.197998}
+        - {x: -269.09305, y: 3.802002}
+        - {x: -270.09305, y: 4.802002}
+    - name: GAME OVER_2
+      rect:
+        serializedVersion: 2
+        x: 5159
+        y: 382
+        width: 218
+        height: 1880
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.565918, y: -256.712}
+        - {x: 24.434082, y: -256.712}
+        - {x: 30.434082, y: -252.712}
+        - {x: 30.434082, y: 108.287994}
+        - {x: 17.434082, y: 250.288}
+        - {x: -29.565918, y: 250.288}
+        - {x: -29.565918, y: -252.712}
+    - name: GAME OVER_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2682
+        width: 7494
+        height: 3117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1022.86194, y: 426.20007}
+        - {x: -1022.86194, y: -425.79993}
+        - {x: 1024.1381, y: -425.79993}
+        - {x: 1024.1381, y: 426.20007}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

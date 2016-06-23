@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: f0f2417082c52c2438b59ab4c5135b5c
+timeCreated: 1464119067
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sweet Dream Tracker_0
+    21300002: Sweet Dream Tracker_1
+    21300004: Sweet Dream Tracker_2
+    21300006: Sweet Dream Tracker_3
+    21300008: Sweet Dream Tracker_4
+    21300010: Sweet Dream Tracker_5
+    21300012: Sweet Dream Tracker_6
+    21300014: Sweet Dream Tracker_7
+    21300016: Sweet Dream Tracker_8
+    21300018: Sweet Dream Tracker_9
+    21300020: Sweet Dream Tracker_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sweet Dream Tracker_0
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2757
+        width: 2819
+        height: 1028
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -184.64685, y: 68.49475}
+        - {x: -184.64685, y: -67.50525}
+        - {x: 185.35315, y: -67.50525}
+        - {x: 185.35315, y: 68.49475}
+    - name: Sweet Dream Tracker_1
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 2757
+        width: 2819
+        height: 1028
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -184.66959, y: 68.49475}
+        - {x: -184.66959, y: -67.50525}
+        - {x: 185.33041, y: -67.50525}
+        - {x: 185.33041, y: 68.49475}
+    - name: Sweet Dream Tracker_2
+      rect:
+        serializedVersion: 2
+        x: 6427
+        y: 2757
+        width: 2819
+        height: 1028
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -183.79895, y: 68.49475}
+        - {x: -183.79895, y: -67.50525}
+        - {x: 186.20105, y: -67.50525}
+        - {x: 186.20105, y: 68.49475}
+    - name: Sweet Dream Tracker_3
+      rect:
+        serializedVersion: 2
+        x: 9535
+        y: 2757
+        width: 2819
+        height: 1028
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 185.2185, y: 68.49475}
+        - {x: -184.7815, y: 68.49475}
+        - {x: -184.7815, y: -67.50525}
+        - {x: 185.2185, y: -67.50525}
+    - name: Sweet Dream Tracker_4
+      rect:
+        serializedVersion: 2
+        x: 12617
+        y: 2757
+        width: 2819
+        height: 1028
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -184.6731, y: 68.49475}
+        - {x: -184.6731, y: -67.50525}
+        - {x: 185.3269, y: -67.50525}
+        - {x: 185.3269, y: 67.49475}
+        - {x: 184.3269, y: 68.49475}
+    - name: Sweet Dream Tracker_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1422
+        width: 2824
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -183.8514, y: 69.95105}
+        - {x: -183.8514, y: -67.04895}
+        - {x: -181.8514, y: -69.04895}
+        - {x: 186.1486, y: -69.04895}
+        - {x: 186.1486, y: 69.95105}
+    - name: Sweet Dream Tracker_6
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 1422
+        width: 2824
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 185.96152, y: 68.95105}
+        - {x: 184.96152, y: 69.95105}
+        - {x: -185.03848, y: 69.95105}
+        - {x: -185.03848, y: -68.04895}
+        - {x: -184.03848, y: -69.04895}
+        - {x: 183.96152, y: -69.04895}
+        - {x: 185.96152, y: -67.04895}
+    - name: Sweet Dream Tracker_7
+      rect:
+        serializedVersion: 2
+        x: 6401
+        y: 1422
+        width: 2824
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 185.79193, y: -69.04895}
+        - {x: 185.79193, y: 69.95105}
+        - {x: -181.20807, y: 69.95105}
+        - {x: -181.20807, y: -67.04895}
+        - {x: -179.20807, y: -69.04895}
+    - name: Sweet Dream Tracker_8
+      rect:
+        serializedVersion: 2
+        x: 9517
+        y: 1422
+        width: 2824
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 185.8584, y: -69.04895}
+        - {x: 186.8584, y: -68.04895}
+        - {x: 186.8584, y: 69.95105}
+        - {x: -184.1416, y: 69.95105}
+        - {x: -184.1416, y: -67.04895}
+        - {x: -182.1416, y: -69.04895}
+    - name: Sweet Dream Tracker_9
+      rect:
+        serializedVersion: 2
+        x: 12588
+        y: 1422
+        width: 2824
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 186.02441, y: -69.04895}
+        - {x: 186.02441, y: 69.95105}
+        - {x: -182.97559, y: 69.95105}
+        - {x: -182.97559, y: -67.04895}
+        - {x: -180.97559, y: -69.04895}
+    - name: Sweet Dream Tracker_10
+      rect:
+        serializedVersion: 2
+        x: 7990
+        y: 205
+        width: 2808
+        height: 1041
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -183.8601, y: 69.87937}
+        - {x: -183.8601, y: -68.12063}
+        - {x: 185.1399, y: -68.12063}
+        - {x: 185.1399, y: 69.87937}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

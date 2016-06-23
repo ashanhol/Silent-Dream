@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: ff469ca14aba7874cbcd6f8a7088d562
+timeCreated: 1462821280
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: optionbutton_0
+    21300002: optionbutton_1
+    21300004: optionbutton_2
+    21300006: optionbutton_3
+    21300008: optionbutton_4
+    21300010: optionbutton_5
+    21300012: optionbutton_6
+    21300014: optionbutton_7
+    21300016: optionbutton_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: optionbutton_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 4521
+        width: 7479
+        height: 4187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -879.0611, y: 492.77612}
+        - {x: -879.0611, y: -492.22388}
+        - {x: 880.9389, y: -492.22388}
+        - {x: 880.9389, y: 492.77612}
+    - name: optionbutton_1
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 2715
+        width: 2792
+        height: 974
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 314.81995, y: -113.46991}
+        - {x: 315.81995, y: -112.46991}
+        - {x: 329.81995, y: -112.46991}
+        - {x: 329.81995, y: 115.53009}
+        - {x: -328.18005, y: 115.53009}
+        - {x: -328.18005, y: -112.46991}
+        - {x: -314.18005, y: -113.46991}
+        - {x: -312.18005, y: -113.46991}
+        - {x: -311.18005, y: -112.46991}
+        - {x: 310.81995, y: -112.46991}
+        - {x: 311.81995, y: -113.46991}
+    - name: optionbutton_2
+      rect:
+        serializedVersion: 2
+        x: 3868
+        y: 1047
+        width: 2806
+        height: 974
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -186.80042, y: -113.76021}
+        - {x: -185.80042, y: -112.76021}
+        - {x: 315.1996, y: -112.76021}
+        - {x: 316.1996, y: -113.76021}
+        - {x: 319.1996, y: -113.76021}
+        - {x: 331.1996, y: -112.76021}
+        - {x: 331.1996, y: 115.23979}
+        - {x: -325.8004, y: 115.23979}
+        - {x: -327.8004, y: 113.23979}
+        - {x: -327.8004, y: 21.239792}
+        - {x: -328.8004, y: 20.239792}
+        - {x: -328.8004, y: 17.239792}
+        - {x: -327.8004, y: 16.239792}
+        - {x: -327.8004, y: -109.76021}
+        - {x: -324.8004, y: -112.76021}
+        - {x: -310.8004, y: -112.76021}
+        - {x: -309.8004, y: -113.76021}
+        - {x: -307.8004, y: -113.76021}
+        - {x: -306.8004, y: -112.76021}
+        - {x: -191.80042, y: -112.76021}
+        - {x: -190.80042, y: -113.76021}
+    - name: optionbutton_3
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 2833
+        width: 246
+        height: 700
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.119202, y: 77.78204}
+        - {x: -24.119202, y: 68.78204}
+        - {x: -26.119202, y: 42.782043}
+        - {x: -26.119202, y: -74.21796}
+        - {x: 29.880798, y: -74.21796}
+        - {x: 29.880798, y: 77.78204}
+    - name: optionbutton_4
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 2842
+        width: 246
+        height: 700
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.828857, y: 75.39874}
+        - {x: -21.828857, y: 63.398743}
+        - {x: -11.828857, y: 47.398743}
+        - {x: -17.828857, y: 6.3987427}
+        - {x: -17.828857, y: -12.601257}
+        - {x: -14.828857, y: -22.601257}
+        - {x: -22.828857, y: -50.601257}
+        - {x: -22.828857, y: -75.60126}
+        - {x: 30.171143, y: -75.60126}
+        - {x: 30.171143, y: 75.39874}
+    - name: optionbutton_5
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1078
+        width: 246
+        height: 700
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.404907, y: 79.53055}
+        - {x: -26.595093, y: 79.53055}
+        - {x: -26.595093, y: -71.46945}
+        - {x: 27.404907, y: -71.46945}
+        - {x: 29.404907, y: -62.46945}
+      - - {x: -3.5950928, y: 77.53055}
+        - {x: -2.5950928, y: 74.53055}
+        - {x: 2.4049072, y: 74.53055}
+        - {x: 4.404907, y: 76.53055}
+        - {x: 3.4049072, y: 79.53055}
+        - {x: -1.5950928, y: 79.53055}
+    - name: optionbutton_6
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 1098
+        width: 246
+        height: 700
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.658447, y: 74.73428}
+        - {x: -25.658447, y: -76.26572}
+        - {x: 30.341553, y: -76.26572}
+        - {x: 30.341553, y: 74.73428}
+    - name: optionbutton_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 218
+        width: 387
+        height: 4257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.133675, y: 409.27057}
+        - {x: 46.133675, y: 477.27057}
+        - {x: -45.866325, y: 477.27057}
+        - {x: -45.866325, y: 409.27057}
+        - {x: -42.866325, y: 409.27057}
+        - {x: -42.866325, y: -489.72943}
+        - {x: -40.866325, y: -491.72943}
+        - {x: 8.133675, y: -491.72943}
+        - {x: 9.133675, y: -492.72943}
+        - {x: 14.133675, y: -492.72943}
+        - {x: 15.133675, y: -491.72943}
+        - {x: 20.133675, y: -491.72943}
+        - {x: 22.133675, y: -493.72943}
+        - {x: 23.133675, y: -493.72943}
+        - {x: 25.133675, y: -491.72943}
+        - {x: 33.133675, y: -491.72943}
+        - {x: 35.133675, y: -494.72943}
+        - {x: 35.133675, y: -499.72943}
+        - {x: 36.133675, y: -500.72943}
+        - {x: 40.133675, y: -500.72943}
+        - {x: 40.133675, y: -491.72943}
+        - {x: 43.133675, y: -490.72943}
+        - {x: 43.133675, y: 409.27057}
+    - name: optionbutton_8
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 4074
+        width: 4256
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -137.26276, y: -36.85205}
+        - {x: -123.26276, y: -37.85205}
+        - {x: -100.26276, y: -36.85205}
+        - {x: -98.26276, y: -34.85205}
+        - {x: 252.73724, y: -34.85205}
+        - {x: 252.73724, y: -37.85205}
+        - {x: 257.73724, y: -37.85205}
+        - {x: 257.73724, y: -34.85205}
+        - {x: 290.73724, y: -37.85205}
+        - {x: 306.73724, y: -37.85205}
+        - {x: 306.73724, y: -34.85205}
+        - {x: 486.73724, y: -34.85205}
+        - {x: 488.73724, y: -32.85205}
+        - {x: 490.73724, y: 4.147949}
+        - {x: 493.73724, y: 4.147949}
+        - {x: 493.73724, y: 8.147949}
+        - {x: 490.73724, y: 14.147949}
+        - {x: 488.73724, y: 31.14795}
+        - {x: 486.73724, y: 33.14795}
+        - {x: -474.26276, y: 33.14795}
+        - {x: -476.26276, y: 31.14795}
+        - {x: -476.26276, y: -32.85205}
+        - {x: -475.26276, y: -35.85205}
+        - {x: -469.26276, y: -37.85205}
+        - {x: -377.26276, y: -37.85205}
+        - {x: -377.26276, y: -34.85205}
+        - {x: -140.26276, y: -34.85205}
+        - {x: -138.26276, y: -36.85205}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
